@@ -322,5 +322,4 @@ if __name__ == '__main__':
         # wrong way to execute "serve"
         #   Use : >> python ui/app.py
         #           uses seq2seq_serve.ini as conf file
-        print('Serve Usage : >> python ui/app.py')
         print('# uses seq2seq_serve.ini as conf file')
