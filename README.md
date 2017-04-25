@@ -38,7 +38,7 @@ Prior to do anything:
 - make sure you have all dependencies downloaded and installed
 - tensorflow setup properly (I am still getting an error) More info on that here https://www.tensorflow.org/install/
 - you have all your datasets ready
-- they are properly sorted (meaning they are in proper folders, otherwise you will be facing multiple issues as well) 
+- datasets are properly sorted (meaning they are in proper folders, otherwise you will be facing multiple issues as well) 
 - it will take a very long time to train this bot on your personal computer, so leave it for a while.
 
 ## Next Steps:
