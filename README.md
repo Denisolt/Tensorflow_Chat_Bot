@@ -2,11 +2,11 @@
 A chatbot using Tensorflow and Cornell Universities movie dialogue dataset. 
 This is a tutorial of one of the videos by Sirajology 
 
-## Dependencies:
-numpy
-scipy
-six
-tensorflow
+## Dependencies:</br>
+numpy </br>
+scipy</br>
+six</br>
+tensorflow</br>
 
 ## Dataset:
 https://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html
@@ -33,8 +33,8 @@ python execute.py
 ```
 
 ## Some Clarification:
-Note: Some of the files are taken from the examples folder of Tensorflow
-Prior to do anything:
+Note: Some of the files are taken from the examples folder of Tensorflow</br>
+Prior to do anything:</br>
 - make sure you have all dependencies downloaded and installed
 - tensorflow setup properly (I am still getting an error) More info on that here https://www.tensorflow.org/install/
 - you have all your datasets ready
