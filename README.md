@@ -6,7 +6,7 @@ This is a tutorial of one of the videos by Sirajology
 numpy </br>
 scipy</br>
 six</br>
-tensorflow</br>
+tensorflow, specifically tensorflow==0.12 (Newer versions will result in error)</br>
 
 ## Dataset:
 https://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html
@@ -36,7 +36,7 @@ python execute.py
 Note: Some of the files are taken from the examples folder of Tensorflow</br>
 Prior to do anything:</br>
 - make sure you have all dependencies downloaded and installed
-- tensorflow setup properly (I am still getting an error) More info on that here https://www.tensorflow.org/install/
+- tensorflow setup properly. More info on that here https://www.tensorflow.org/install/
 - you have all your datasets ready
 - datasets are properly sorted (meaning they are in proper folders, otherwise you will be facing multiple issues as well) 
 - it will take a very long time to train this bot on your personal computer, so leave it for a while.
