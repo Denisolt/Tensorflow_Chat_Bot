@@ -17,15 +17,16 @@ make sure you uncomment the last line of prepare_data.py in order to prepare you
 Then make sure to create a working_dir folder
 
 ## Installation:
-```bash
+
+```
 git clone https://github.com/Denisolt/Tensorflow_Chat_Bot.git
 cd Tensorflow_Chat_Bot-master
 virtualenv local
 source local/bin/activate
 ```
 Install all libararies: 
-<h3> Make sure you install Tensorflow 0.12, Otherwise it won't work </h3>
-```bash
+Make sure you install Tensorflow 0.12, Otherwise it won't work
+```
 pip install -r requirements.txt
 ```
 ## Usage:
