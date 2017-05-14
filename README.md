@@ -9,13 +9,17 @@ six</br>
 tensorflow, specifically tensorflow==0.12 (Newer versions will result in error)</br>
 
 ## Dataset:
-https://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html
-Also, I prefered getting the dataset directly from 
+https://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html </br>
+Also, I prefered getting the dataset directly from </br>
 https://github.com/suriyadeepan/datasets
-and runnning suriyadeepan/datasets/seq2seq/cornell_movie_corpus/scripts/prepare_data.py
-make sure you uncomment the last line of prepare_data.py in order to prepare your data. 
-Then make sure to create a working_dir folder
-
+and runnning: </br>
+```
+git clone https://github.com/suriyadeepan/datasets.git
+cd datasets/seq2seq/cornell_movie_corpus/scripts/
+python prepare_data.py
+# Make sure you uncomment the last line of prepare_data.py in order to prepare your data. 
+# Then make sure to create a working_dir folder
+```
 ## Installation:
 
 ```
